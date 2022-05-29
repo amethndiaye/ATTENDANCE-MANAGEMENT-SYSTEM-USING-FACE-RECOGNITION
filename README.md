@@ -39,7 +39,7 @@ This project servers as a foundation for future projects based on facial detecti
 <img src="https://user-images.githubusercontent.com/106237558/170826515-40e29a4d-9793-474d-bd0f-e8f69d55566e.png" width="45%"> <img src="https://user-images.githubusercontent.com/106237558/170826500-5f37784d-fcb8-450a-9bad-4bc060d4a177.png" width="45%"><br> <img src="https://user-images.githubusercontent.com/106237558/170826507-27b6db50-1479-45ae-a5c9-64acf919b4c3.png" width="45%"> <img src="https://user-images.githubusercontent.com/106237558/170826510-cc39fe0d-3369-4f81-8de0-b6c793d9cedf.png" width="45%"><br> <img src="https://user-images.githubusercontent.com/106237558/170826512-8ef08667-5348-4950-b344-04129c3faebc.png" width="45%"> <img src="https://user-images.githubusercontent.com/106237558/170826514-5f11f3bd-5c76-4459-8f23-809819973d67.png" width="45%"><br>
 
 ## Presentation 🎓
-https://youtu.be/3wMPgMP8ZFo
+<a href ="https://youtu.be/3wMPgMP8ZFo">Presentation link</a>
 
 
 -----------
