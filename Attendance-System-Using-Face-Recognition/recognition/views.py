@@ -178,7 +178,7 @@ def update_attendance_in_db_in(present):
 	for person in present:
 		user=User.objects.get(username=person)
 		try:
-		   qs=Present.objects.get(user=user,date=today)
+			qs=Present.objects.get(user=user,date=today)
 		except :
 			qs= None
 		
@@ -644,7 +644,7 @@ def mark_your_attendance(request):
 					count[pred] = count.get(pred,0) + 1
 
 				if count[pred] == 4 and (time.time()-start[pred]) > 1.2:
-					 count[pred] = 0
+					count[pred] = 0
 				else:
 				#if count[pred] == 4 and (time.time()-start) <= 1.5:
 					present[pred] = True
@@ -754,7 +754,7 @@ def mark_your_attendance_out(request):
 					count[pred] = count.get(pred,0) + 1
 
 				if count[pred] == 4 and (time.time()-start[pred]) > 1.5:
-					 count[pred] = 0
+					count[pred] = 0
 				else:
 				#if count[pred] == 4 and (time.time()-start) <= 1.5:
 					present[pred] = True
